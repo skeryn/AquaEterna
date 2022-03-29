@@ -1,0 +1,21 @@
+## Interface: 90200
+## Title: |cff00cc00[AquaEterna]|r |cffccccccUtility Core|r
+## Author: Skeryn
+## Notes: Utility addon
+## Version: 1.0.0
+## SavedVariables: AquaDb
+## OptionalDeps: Ace3
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\AceAddon-3.0\AceAddon-3.0.xml
+libs\AceEvent-3.0\AceEvent-3.0.xml
+libs\AceDB-3.0\AceDB-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+libs\AceGUI-3.0\AceGUI-3.0.xml
+libs\AceConfig-3.0\AceConfig-3.0.xml
+libs\IconClass.lua
+
+main.lua
+settings.lua
+utils\lootFilter.lua
