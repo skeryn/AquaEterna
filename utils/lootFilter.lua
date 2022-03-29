@@ -76,7 +76,6 @@ function AquaEterna:SetLootItemActivated(_, key, value)
     self.db.profile.lootFilter.itemList[key].enabled = value
 end
 
-
 function AquaEterna:GetLootItem(_, key)
     if (self.db.profile.lootFilter.itemList[key] ~= nil) then
         return self.db.profile.lootFilter.itemList[key]
