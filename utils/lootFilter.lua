@@ -1,4 +1,5 @@
 local lootFilterIcon = 133666
+
 local Print = function (input)
     AquaEterna:Print(AquaEterna:DisplayIcon(lootFilterIcon) .. " " .. input)
 end
