@@ -2,7 +2,7 @@
 ## Title: |cff00cc00[AquaEterna]|r |cffccccccUtility Core|r
 ## Author: Skeryn
 ## Notes: Utility addon
-## Version: v1.1.2-2022040818
+## Version: v1.1.2-2022040900
 ## SavedVariables: AquaDb
 ## OptionalDeps: Ace3
 
